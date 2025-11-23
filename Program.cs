@@ -1,4 +1,4 @@
-﻿//all by RozbitiOkno - funkcions and varibles
+﻿//all made by RozbitiOkno - funkcions and varibles
 
 ConsoleColor puvodníbarav1 = Console.ForegroundColor;
 Console.ForegroundColor = ConsoleColor.Green;
