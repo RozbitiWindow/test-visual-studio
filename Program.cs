@@ -73,5 +73,4 @@ foreach (int loop in intlist)
     Console.WriteLine(loop);
 }
 
-
- 
+//did you know thet you can write this from your mobile app!
